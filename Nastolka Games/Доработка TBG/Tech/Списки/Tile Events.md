@@ -12,7 +12,7 @@ Moon
 NoneEvent
 Park
 Port
-lums
+Slums
 Square
 Sun
 Theater

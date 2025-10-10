@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nastolka Games/Доработка TBG/Tech/Debug Console.md",
+                "file": "Nastolka Games/Доработка TBG/Tech/Списки/Tile Events.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Debug Console"
+              "title": "Tile Events"
             }
           }
         ],
@@ -197,13 +197,13 @@
   },
   "active": "f9e1644fbd0bda1b",
   "lastOpenFiles": [
-    "Nastolka Games/Доработка TBG/Tech/Списки/Tile Events.md",
     "Nastolka Games/Доработка TBG/Tech/Debug Console.md",
-    "Nastolka Games/Доработка TBG/Tech/Списки/ViewPoints.md",
+    "Nastolka Games/Доработка TBG/GDD/Сценарий Demo.md",
     "Nastolka Games/Доработка TBG/Tech/Списки/Предметы.md",
+    "Nastolka Games/Доработка TBG/Tech/Списки/Tile Events.md",
+    "Nastolka Games/Доработка TBG/Tech/Списки/ViewPoints.md",
     "Nastolka Games/Доработка TBG/Tech/Списки/Пешки.md",
     "Nastolka Games/Доработка TBG/Tech/Списки",
-    "Nastolka Games/Доработка TBG/GDD/Сценарий Demo.md",
     "Nastolka Games/Доработка TBG/Tech",
     "Nastolka Games/Доработка TBG/About.md",
     "Welcome.base",
