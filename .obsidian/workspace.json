@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nastolka Games/Доработка/About.md",
+                "file": "Nastolka Games/Доработка TBG/GDD/Сценарий Demo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "About"
+              "title": "Сценарий Demo"
             }
           }
         ]
@@ -182,9 +182,11 @@
   },
   "active": "4e51d314679875b1",
   "lastOpenFiles": [
+    "Nastolka Games/Доработка TBG/About.md",
+    "Nastolka Games/Доработка TBG/GDD/Сценарий Demo.md",
+    "Nastolka Games/Доработка TBG/GDD",
     "README.md",
-    "Nastolka Games/Доработка/About.md",
-    "Nastolka Games/Доработка",
+    "Nastolka Games/Доработка TBG",
     "Nastolka Games",
     "Welcome.base",
     "Welcome в проект Mind Card Game.md",
